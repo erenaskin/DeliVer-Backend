@@ -1,0 +1,4 @@
+com/deliverapp/backend/security/JwtAuthenticationFilterTest.class
+com/deliverapp/backend/repository/ServiceRepositoryTest.class
+com/deliverapp/backend/DeliverBackendApplicationTests.class
+com/deliverapp/backend/service/ServiceServiceTest.class
