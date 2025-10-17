@@ -1314,7 +1314,3 @@ curl -X GET http://localhost:8080/api/orders/1 \
 4. **Hata Yönetimi**: Tüm hatalarda tutarlı format kullanılır
 5. **Güvenlik**: Kullanıcılar sadece kendi verilerine erişebilir
 6. **Performans**: Lazy loading ve optimize edilmiş sorgular kullanılır
-
-**Son Güncelleme**: 10 Ekim 2025  
-**API Versiyonu**: v1.0  
-**Dokümantasyon Versiyonu**: 1.0
